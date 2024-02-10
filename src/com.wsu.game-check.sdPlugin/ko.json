@@ -1,0 +1,20 @@
+{
+  "Description": "이것을 이용하여 당신 자신만의 플러그인을 만드세요",
+  "Name": "스트림 덱 템플릿",
+  "Category": "Templates",
+  "com.wsu.game-check.action": {
+    "Name": "Action",
+    "Tooltip": "이 플러그인에서 유일한 액션"
+  },
+  "Localization": {
+    "More info": "More info",
+    "Message": "Message",
+    "Click Me": "Click Me",
+    "Button": "Button",
+    "More": "More",
+    "My name": "My name",
+    "My title": "My title",
+    "My message": "My message",
+    "My button": "My button"
+  }
+}
