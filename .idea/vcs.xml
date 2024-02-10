@@ -2,6 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sample-clock-plugin" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/com.wsu.game-check.sdPlugin/libs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/streamdeck-counter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/streamdeck-memorygame" vcs="Git" />
   </component>
 </project>
